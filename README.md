@@ -1,4 +1,4 @@
-# tender_scrapper
+# Tender Scraper (`tender_scrapper`)
 
 This repository contains a Maharashtra tender scraping and reporting workflow:
 
